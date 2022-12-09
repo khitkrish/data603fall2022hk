@@ -74,7 +74,7 @@ Contains evaluation set for the prior, test and training orders.
 
       test(~75 K) - test data for ML model.
  
-## How to Find and Run Code
+## How to Find and Run Code.
       
 ### The latest publish link is as below,
 
